@@ -6,5 +6,8 @@ This Python script allows you to check whether an email address is registered on
 
 # Usage
 
-python3 discover.py <email>
+python3 discover.py **email**
+
+<img width="1019" height="817" alt="image" src="https://github.com/user-attachments/assets/884cf454-413a-4a0f-9096-1a47771ec9bd" />
+
 
